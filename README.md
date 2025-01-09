@@ -1,6 +1,6 @@
-# NBADataLake
+# NBA Data Lake
 
-NBADataLake is a project designed to build a scalable data lake for NBA data using AWS cloud services. This setup allows for efficient storage, cataloging, and querying of NBA statistics and analytics data. The project integrates Amazon S3, AWS Glue, and Amazon Athena to create a robust data infrastructure for data-driven insights.
+NBA Data Lake is a project designed to build a scalable data lake for NBA data using AWS cloud services. This setup allows for efficient storage, cataloging, and querying of NBA statistics and analytics data. The project integrates Amazon S3, AWS Glue, and Amazon Athena to create a robust data infrastructure for data-driven insights.
 
 ## Features
 
